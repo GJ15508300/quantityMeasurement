@@ -20,7 +20,7 @@ export const TemperatureConvert=function (data,fromindex1,toindex2)
     default:
         fromindex1=0;
         result= CalculateCelsius(data,toindex2);
-        return result;
+        return resul
     
         }
 }
